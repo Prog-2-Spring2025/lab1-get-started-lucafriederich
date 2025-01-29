@@ -11,6 +11,7 @@
  */ 
 
 int main() {
-	cout << "Hello Programming II"; 
+	cout << "Hello Programming II, on 1/29/2025 at 4:55pm"; 
+	cout << "hallo welt";
 	return 0; 
 }
